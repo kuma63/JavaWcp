@@ -1,3 +1,4 @@
+package clacapp.main;
 import calcapp.logics.CalcLogic;
 
 public class Calc {
